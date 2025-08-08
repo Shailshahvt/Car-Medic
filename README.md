@@ -168,4 +168,3 @@ The server should start at `http://localhost:5001/`
 3. Make changes and commit (`git commit -am 'Add new feature'`), It is prefered to sign your commit using -S.
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
-
